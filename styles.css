@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #FFCE45;
+  background-color: #D4AC2B;
 }
 
 h1 {
@@ -45,7 +45,7 @@ background-image: url("images/kick.png");
 }
 
 .set {
-  margin: 10% auto;
+  margin: auto;
 }
 
 .game-over {
